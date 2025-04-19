@@ -1,0 +1,5 @@
+[teamspeak]
+host = "69rangergtm.ts3thai.net"  # ใส่ IP หรือโดเมนของ TS3 server
+name = "69Ranger Gentleman Community"  # ชื่อบอทที่แสดงใน TS3
+channel = "[cspacer04] Welcome Channel"  # ชื่อห้องที่บอทต้องเข้า
+channelPassword = ""  # ใส่รหัสห้องถ้ามี
